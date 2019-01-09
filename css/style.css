@@ -1,0 +1,13 @@
+html {
+  text-align: center;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  color: blue;
+  font-style: oblique;
+}
